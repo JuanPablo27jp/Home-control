@@ -1,0 +1,67 @@
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\bin\Debug\Par.exe.config
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\bin\Debug\Par.exe
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\bin\Debug\Par.pdb
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.csproj.AssemblyReference.cache
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.Form1.resources
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.Properties.Resources.resources
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.csproj.GenerateResource.cache
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.exe
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.pdb
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.Form2.resources
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\GABRIEL SANCHEZ\OneDrive\Documentos\juanfer\Programacion Avanzada\Par\obj\Debug\Par.csproj.Up2Date
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\bin\Debug\Par.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\bin\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\bin\Debug\Par.pdb
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.Form1.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.Form2.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica 5\obj\Debug\Par.pdb
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\bin\Debug\Par.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\bin\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\bin\Debug\Par.pdb
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.Form1.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.Form2.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica5\obj\Debug\Par.pdb
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\bin\Debug\Par.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\bin\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\bin\Debug\Par.pdb
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.Form1.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.Form2.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.exe
+C:\Users\ferna\OneDrive\Escritorio\Práctica5jp\Práctica5\obj\Debug\Par.pdb
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\bin\Debug\Par.exe.config
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\bin\Debug\Par.exe
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\bin\Debug\Par.pdb
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.csproj.AssemblyReference.cache
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.Form1.resources
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.Form2.resources
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.Properties.Resources.resources
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.csproj.GenerateResource.cache
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.csproj.CoreCompileInputs.cache
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.csproj.Up2Date
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.exe
+E:\Práctica5jp (3)\Práctica5jp\Práctica5\obj\Debug\Par.pdb
