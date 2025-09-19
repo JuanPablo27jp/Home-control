@@ -3,8 +3,6 @@
 
 int foco=4;
 int puerta=8;
-int cochera1=7;
-int cochera2=2;
 Servo myservo;
 
 const int PPR = 200;
@@ -14,8 +12,6 @@ void setup() {
   // put your setup code here, to run once:
 pinMode(foco,OUTPUT);
 pinMode(puerta,OUTPUT);
-pinMode(cochera1,OUTPUT);
-pinMode(cochera2,OUTPUT);
 myservo.attach(puerta);
 miMotor.setSpeed(60);
 Serial.begin(9600);
